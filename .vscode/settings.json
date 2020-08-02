@@ -1,0 +1,35 @@
+{
+    "sasslint.configFile": "sass-lint.yml",
+    "sasslint.enable": true,
+    "typescript.extension.sortImports.sortMethod": "path",
+    "typescript.extension.sortImports.maxLineLength": 150,
+    "typescript.extension.sortImports.pathSortOrder": [
+        "package",
+        "relativeDownLevel",
+        "relativeUpLevel"
+    ],
+    "workbench.colorCustomizations": {
+        "statusBar.border": "#532392",
+        "statusBar.debuggingBackground": "#6b2dbb",
+        "activityBar.background": "#6a2dbb",
+        "activityBar.activeBorder": "#331d0c",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#331d0c",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "titleBar.activeBackground": "#532392",
+        "titleBar.inactiveBackground": "#53239299",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#532392",
+        "statusBarItem.hoverBackground": "#6a2dbb",
+        "statusBar.foreground": "#e7e7e7",
+        "activityBar.activeBackground": "#6a2dbb",
+        "titleBar.border": "#532392"
+    },
+    "cSpell.enabled": false,
+    "peacock.color": "#532392",
+    "search.exclude": {
+        "**/dist": true
+    }
+}
